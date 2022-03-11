@@ -1,4 +1,4 @@
-# useState hooks Exaple 
+# useState hooks Example 
 
 # Getting Started with Create React App
 
